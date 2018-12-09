@@ -1,0 +1,236 @@
+[1mdiff --git a/Imagens-Prontas/chars/Sprites-Completo/Adventure/Boy/Dead.png b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Boy/Dead.png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e7d300a[m
+Binary files /dev/null and b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Boy/Dead.png differ
+[1mdiff --git a/Imagens-Prontas/chars/Sprites-Completo/Adventure/Boy/Idle.png b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Boy/Idle.png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..ad8cd45[m
+Binary files /dev/null and b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Boy/Idle.png differ
+[1mdiff --git a/Imagens-Prontas/chars/Sprites-Completo/Adventure/Boy/jump.png b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Boy/jump.png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..d057621[m
+Binary files /dev/null and b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Boy/jump.png differ
+[1mdiff --git a/Imagens-Prontas/chars/Sprites-Completo/Adventure/Boy/run.png b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Boy/run.png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..d6e4df4[m
+Binary files /dev/null and b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Boy/run.png differ
+[1mdiff --git a/Imagens-Prontas/chars/Sprites-Completo/Adventure/Boy/slide.png b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Boy/slide.png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..c07bc4c[m
+Binary files /dev/null and b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Boy/slide.png differ
+[1mdiff --git a/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Dead (1).png b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Dead (1).png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..31988ab[m
+Binary files /dev/null and b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Dead (1).png differ
+[1mdiff --git a/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Dead (10).png b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Dead (10).png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..2e63a70[m
+Binary files /dev/null and b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Dead (10).png differ
+[1mdiff --git a/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Dead (2).png b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Dead (2).png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..248d549[m
+Binary files /dev/null and b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Dead (2).png differ
+[1mdiff --git a/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Dead (3).png b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Dead (3).png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..db8e210[m
+Binary files /dev/null and b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Dead (3).png differ
+[1mdiff --git a/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Dead (4).png b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Dead (4).png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..5c5ce79[m
+Binary files /dev/null and b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Dead (4).png differ
+[1mdiff --git a/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Dead (5).png b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Dead (5).png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..8be891b[m
+Binary files /dev/null and b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Dead (5).png differ
+[1mdiff --git a/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Dead (6).png b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Dead (6).png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..75a817f[m
+Binary files /dev/null and b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Dead (6).png differ
+[1mdiff --git a/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Dead (7).png b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Dead (7).png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..2e63a70[m
+Binary files /dev/null and b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Dead (7).png differ
+[1mdiff --git a/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Dead (8).png b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Dead (8).png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..2e63a70[m
+Binary files /dev/null and b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Dead (8).png differ
+[1mdiff --git a/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Dead (9).png b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Dead (9).png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..2e63a70[m
+Binary files /dev/null and b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Dead (9).png differ
+[1mdiff --git a/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Idle (1).png b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Idle (1).png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..0c85798[m
+Binary files /dev/null and b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Idle (1).png differ
+[1mdiff --git a/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Idle (10).png b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Idle (10).png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..ee00a39[m
+Binary files /dev/null and b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Idle (10).png differ
+[1mdiff --git a/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Idle (2).png b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Idle (2).png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..ee00a39[m
+Binary files /dev/null and b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Idle (2).png differ
+[1mdiff --git a/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Idle (3).png b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Idle (3).png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..15ab333[m
+Binary files /dev/null and b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Idle (3).png differ
+[1mdiff --git a/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Idle (4).png b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Idle (4).png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..ad589a0[m
+Binary files /dev/null and b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Idle (4).png differ
+[1mdiff --git a/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Idle (5).png b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Idle (5).png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..05ccfe0[m
+Binary files /dev/null and b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Idle (5).png differ
+[1mdiff --git a/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Idle (6).png b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Idle (6).png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..a0fa6b2[m
+Binary files /dev/null and b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Idle (6).png differ
+[1mdiff --git a/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Idle (7).png b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Idle (7).png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..05ccfe0[m
+Binary files /dev/null and b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Idle (7).png differ
+[1mdiff --git a/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Idle (8).png b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Idle (8).png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..ad589a0[m
+Binary files /dev/null and b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Idle (8).png differ
+[1mdiff --git a/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Idle (9).png b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Idle (9).png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..15ab333[m
+Binary files /dev/null and b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Idle (9).png differ
+[1mdiff --git a/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Jump (1).png b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Jump (1).png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..4674cf7[m
+Binary files /dev/null and b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Jump (1).png differ
+[1mdiff --git a/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Jump (10).png b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Jump (10).png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e09c349[m
+Binary files /dev/null and b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Jump (10).png differ
+[1mdiff --git a/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Jump (2).png b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Jump (2).png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..ca3fb0b[m
+Binary files /dev/null and b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Jump (2).png differ
+[1mdiff --git a/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Jump (3).png b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Jump (3).png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..26ee631[m
+Binary files /dev/null and b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Jump (3).png differ
+[1mdiff --git a/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Jump (4).png b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Jump (4).png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..7dd29ce[m
+Binary files /dev/null and b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Jump (4).png differ
+[1mdiff --git a/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Jump (5).png b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Jump (5).png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..b54e027[m
+Binary files /dev/null and b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Jump (5).png differ
+[1mdiff --git a/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Jump (6).png b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Jump (6).png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..4fc43ec[m
+Binary files /dev/null and b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Jump (6).png differ
+[1mdiff --git a/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Jump (7).png b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Jump (7).png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..5ffe36b[m
+Binary files /dev/null and b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Jump (7).png differ
+[1mdiff --git a/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Jump (8).png b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Jump (8).png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..29ef143[m
+Binary files /dev/null and b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Jump (8).png differ
+[1mdiff --git a/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Jump (9).png b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Jump (9).png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..5e5b502[m
+Binary files /dev/null and b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Jump (9).png differ
+[1mdiff --git a/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Melee (1).png b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Melee (1).png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..b9c754b[m
+Binary files /dev/null and b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Melee (1).png differ
+[1mdiff --git a/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Melee (2).png b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Melee (2).png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..80be8a5[m
+Binary files /dev/null and b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Melee (2).png differ
+[1mdiff --git a/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Melee (3).png b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Melee (3).png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..ed43886[m
+Binary files /dev/null and b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Melee (3).png differ
+[1mdiff --git a/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Melee (4).png b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Melee (4).png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..4025abf[m
+Binary files /dev/null and b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Melee (4).png differ
+[1mdiff --git a/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Melee (5).png b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Melee (5).png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e43e087[m
+Binary files /dev/null and b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Melee (5).png differ
+[1mdiff --git a/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Melee (6).png b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Melee (6).png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..0dee1dc[m
+Binary files /dev/null and b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Melee (6).png differ
+[1mdiff --git a/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Melee (7).png b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Melee (7).png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..c0fc638[m
+Binary files /dev/null and b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Melee (7).png differ
+[1mdiff --git a/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Run (1).png b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Run (1).png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..b16aca9[m
+Binary files /dev/null and b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Run (1).png differ
+[1mdiff --git a/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Run (2).png b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Run (2).png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..935e1d5[m
+Binary files /dev/null and b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Run (2).png differ
+[1mdiff --git a/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Run (3).png b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Run (3).png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..38d3097[m
+Binary files /dev/null and b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Run (3).png differ
+[1mdiff --git a/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Run (4).png b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Run (4).png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..dcac8d7[m
+Binary files /dev/null and b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Run (4).png differ
+[1mdiff --git a/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Run (5).png b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Run (5).png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..549314f[m
+Binary files /dev/null and b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Run (5).png differ
+[1mdiff --git a/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Run (6).png b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Run (6).png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..4ed049d[m
+Binary files /dev/null and b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Run (6).png differ
+[1mdiff --git a/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Run (7).png b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Run (7).png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..a5ec563[m
+Binary files /dev/null and b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Run (7).png differ
+[1mdiff --git a/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Run (8).png b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Run (8).png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..4fc88bf[m
+Binary files /dev/null and b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Run (8).png differ
+[1mdiff --git a/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Shoot (1).png b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Shoot (1).png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..ee57b1f[m
+Binary files /dev/null and b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Shoot (1).png differ
+[1mdiff --git a/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Shoot (2).png b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Shoot (2).png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..cd56524[m
+Binary files /dev/null and b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Shoot (2).png differ
+[1mdiff --git a/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Shoot (3).png b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Shoot (3).png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..9f50e01[m
+Binary files /dev/null and b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Shoot (3).png differ
+[1mdiff --git a/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Slide (1).png b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Slide (1).png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..c48e15f[m
+Binary files /dev/null and b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Slide (1).png differ
+[1mdiff --git a/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Slide (2).png b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Slide (2).png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..9d60f00[m
+Binary files /dev/null and b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Slide (2).png differ
+[1mdiff --git a/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Slide (3).png b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Slide (3).png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..7f11058[m
+Binary files /dev/null and b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Slide (3).png differ
+[1mdiff --git a/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Slide (4).png b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Slide (4).png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..7f11058[m
+Binary files /dev/null and b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Slide (4).png differ
+[1mdiff --git a/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Slide (5).png b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Slide (5).png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..9d60f00[m
+Binary files /dev/null and b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/Slide (5).png differ
+[1mdiff --git a/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/adventure_girl.zip b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/adventure_girl.zip[m
+[1mnew file mode 100644[m
+[1mindex 0000000..4924c3a[m
+Binary files /dev/null and b/Imagens-Prontas/chars/Sprites-Completo/Adventure/Girl/adventure_girl.zip differ
